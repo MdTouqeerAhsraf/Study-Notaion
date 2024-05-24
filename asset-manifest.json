@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Study-Notaion/static/css/main.8ae4272f.css",
+    "main.js": "/Study-Notaion/static/js/main.6c37f12d.js",
+    "static/media/signup.png": "/Study-Notaion/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/Study-Notaion/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/Study-Notaion/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/Study-Notaion/static/media/Logo.0d90853fa1468dbe2d8d82c0ea06b8b1.svg",
+    "index.html": "/Study-Notaion/index.html",
+    "main.8ae4272f.css.map": "/Study-Notaion/static/css/main.8ae4272f.css.map",
+    "main.6c37f12d.js.map": "/Study-Notaion/static/js/main.6c37f12d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ae4272f.css",
+    "static/js/main.6c37f12d.js"
+  ]
+}
